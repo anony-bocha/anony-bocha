@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anony Bocha
+# 👋 Hi, I'm Yonatan Semate
 
 I'm a Backend Developer focused on building scalable, maintainable web applications using **Python** and **Django**.
 
@@ -29,19 +29,19 @@ Django project managing hospital departments, doctors, and appointments.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anony-bocha)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:semateyonatan@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-%2B251985579244-blue?style=flat-square&logo=phone&logoColor=white)](tel:+251985579244)  
+- ✉️ Email: [semateyonatan@gmail.com](mailto:semateyonatan@gmail.com)  
+- 📞 Phone: [+251 985 579 244](tel:+251985579244)  
+- 🔗 LinkedIn: [linkedin.com/in/anony-bocha](https://www.linkedin.com/in/anony-bocha)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Anony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anony-bocha&show_icons=true&theme=radical)
+![Yonatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anony-bocha&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anony-bocha&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anony-bocha&layout=compact&theme=radical)
 
 ---
 

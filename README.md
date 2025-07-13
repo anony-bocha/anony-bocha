@@ -1,6 +1,22 @@
-# 👋 Hi, I'm Yonatan Semate
+<div align="center">
 
-I'm a Backend Developer focused on building scalable, maintainable web applications using **Python** and **Django**.
+<h1>👋 Hi, I'm Yonatan (anony-bocha)</h1>
+  
+<p>
+  <em>Backend Developer & SOC Analyst</em><br/>
+  Passionate about building scalable backend systems and securing digital environments.
+</p>
+
+<p>
+  <a href="https://github.com/anony-bocha" target="_blank">
+    <img src="https://img.shields.io/github/followers/anony-bocha?style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/yourhandle?style=social" alt="Twitter Followers" />
+  </a>
+</p>
+
+</div>
 
 ---
 
@@ -50,4 +66,10 @@ Django project managing hospital departments, doctors, and appointments.
 ---
 
 ### ⚡ Currently Learning  
-REST APIs | Docker | Testing | Advanced Django  
+REST APIs | Docker | Testing | Advanced Django
+
+---
+
+## 🤝 Let’s Connect!
+
+I’m actively looking for backend developer roles. Feel free to reach out to discuss opportunities or collaborations!

@@ -4,7 +4,7 @@
   
 <p>
   <em>Backend Developer & SOC Analyst</em><br/>
-  Passionate about building scalable backend systems and securing digital environments.
+  Passionate about building scalable backend systems and securing digital environments.Open to Remote Backend Freelance Opportunities.
 </p>
 
 <p>
@@ -36,10 +36,10 @@
 
 ### 🍔 [Food Ordering System](https://github.com/anony-bocha/foodordering)  
 Django app for online food ordering — cart, checkout, and user auth.
-
+🌐 **[Live Demo]( https://foodordering-kgwb.onrender.com/)**            
 ### 📝 [Notes App](https://github.com/anony-bocha/notes_app)  
 A note-taking app with login/signup, CRUD, deployed on PythonAnywhere.
-
+🌐 **[Live Demo](https://anony.pythonanywhere.com)**
 ### 🏥 [Hospital Management System](https://github.com/anony-bocha/hospital_management_system)  
 Django project managing hospital departments, doctors, and appointments.
 
